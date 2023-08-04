@@ -15,8 +15,8 @@ title: AI-Hilbert
 
 ## References
 
-Papers:
+**Papers:**
 * [**AI Hilbert: From Data and Background Knowledge to Automated Scientific Discovery via Polynomial Optimization**](), R. Cory-Wright, B. El Khadir, C. Cornelio, S. Dash, L. Horesh, arXiv 2023 
   
-Patents:
-* **o	Logical and Statistical Composite Models**, L. Horesh, B. El Kadir, S. Dash, K. Clarkson, C. Cornelio, 2023
+**Patents:**
+* **Logical and Statistical Composite Models**, L. Horesh, B. El Kadir, S. Dash, K. Clarkson, C. Cornelio, 2023
