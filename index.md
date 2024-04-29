@@ -15,34 +15,6 @@ title: AI-Hilbert
 
 <br clear="left"/>
 
-## AI-Hilbert overview
+# More info will appear here soon!!
 
-add text/figure
- 
-### The Method
- 
-add text/figure
-
-### Kepler's Third Law of Planetary Motion
-
-add text/figure
-
-
-### Relativistic Time Dilation
-
-
-add text/figure
-
-### Hagen-Poissuille Equation
-add text/figure
-
-### Radiation Gravitational Wave Power Equation 
-add text/figure
-
-### Bell Inequalities
-add text/figure
-
-
-### Conclusions and Limitations
-add text/figure
 
