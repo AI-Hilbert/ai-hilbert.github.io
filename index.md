@@ -73,9 +73,9 @@ that AI-Hilbert is data-efficient, in the sense that as the number of axioms sup
 less data is required to successfully derive a scientific law.
 
 <p align="center">
-<img src="figures/Distance_vs_noise_kepler_noiselesscase_allaxiomsmissing.png"  width="200"/>
+<img src="figures/Distance_vs_noise_kepler_noiselesscase_allaxiomsmissing.png"  width="300"/>
 &emsp;&emsp;
-<img src="figures/Distance_vs_noise_kepler_noiselesscase_axiom1missing.png"  width="200"/>
+<img src="figures/Distance_vs_noise_kepler_noiselesscase_axiom1missing.png"  width="300"/>
 </p>
 
 
