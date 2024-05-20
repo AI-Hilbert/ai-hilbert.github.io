@@ -23,7 +23,7 @@ It will be ready soon!
 
 
 <p align="center">
-<img src="figures/scientific_method_flowchart.png" width="600"/>
+<img src="figures/scientific_method_flowchart.png" width="500"/>
 </p>
 
 
@@ -31,13 +31,13 @@ It will be ready soon!
 
 
 <p align="center">
-<img src="figures/scientific_method_comparison_box.png" width="600"/>
+<img src="figures/scientific_method_comparison_box.png" width="500"/>
 </p>
 
 
 
 <p align="center">
-<img src="figures/Figure1.png"  width="400"/>
+<img src="figures/Figure1.png"  width="500"/>
 </p>
 
 
@@ -48,7 +48,7 @@ Poissuille Equation (Section 3.3) and deriving the Radiated Gravitational Wave P
 (Section 3.4). 
 
 <p align="center">
-<img src="figures/animated1.gif"  alt="" width="250"/>
+<img src="figures/animated1.gif"  alt="" width="230"/>
 <img src="figures/animated2.gif"  alt="" width="400"/>
 </p>
 
@@ -73,9 +73,9 @@ that AI-Hilbert is data-efficient, in the sense that as the number of axioms sup
 less data is required to successfully derive a scientific law.
 
 <p align="center">
-<img src="figures/Distance_vs_noise_kepler_noiselesscase_allaxiomsmissing.png"  width="400"/>
+<img src="figures/Distance_vs_noise_kepler_noiselesscase_allaxiomsmissing.png"  width="200"/>
 &emsp;&emsp;
-<img src="figures/Distance_vs_noise_kepler_noiselesscase_axiom1missing.png"  width="400"/>
+<img src="figures/Distance_vs_noise_kepler_noiselesscase_axiom1missing.png"  width="200"/>
 </p>
 
 
