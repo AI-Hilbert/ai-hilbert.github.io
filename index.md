@@ -20,12 +20,11 @@ title: AI-Hilbert
 
 
 A fundamental challenge in science is explaining natural phenomena in a manner consistent with both noisy experimental data and background knowledge about the universe's laws. 
-While the Scientific Method has historically driven significant progress, the rate of new discoveries and their economic contributions have stagnated despite increased investment. Figures like Dirac have noted the increasing difficulty of making groundbreaking discoveries, and research indicates a decline in the marginal value of scientific discoveries over time. This stagnation suggests that the "low-hanging fruit" of science—simple laws involving low-degree polynomials—has largely been picked, necessitating more sophisticated approaches. 
+While the Scientific Method has historically driven significant progress, the rate of new discoveries and their economic contributions have stagnated despite increased investment. Figures like Dirac have noted the increasing difficulty of making groundbreaking discoveries. This stagnation suggests that the "low-hanging fruit" of science—simple laws involving low-degree polynomials—has largely been picked, necessitating more sophisticated approaches. 
 Simultaneously, advances in global optimization methods have made it possible to explore the space of scientific laws more efficiently. 
 Leveraging these advances, we propose AI-Hilbert, a new approach that integrates background knowledge and experimental data to derive consistent scientific laws articulated as polynomial equalities and inequalities. 
-Unlike existing methods that may produce inconsistent or spurious results, AI-Hilbert uses polynomial optimization to derive laws that are formally provable and consistent with both theoretical and empirical data. 
-This method minimizes discrepancies between proposed laws and experimental data while ensuring consistency with background theory, providing formal proofs of correctness. 
-AI-Hilbert is scalable, operating in polynomial time in the number of variables and axioms, and requires less data than purely data-driven methods due to its use of background knowledge to restrict the search space. 
+Unlike existing methods that may produce inconsistent or spurious results, AI-Hilbert ensures formal provability and consistency with both theory and data.
+
 
 <p align="center">
 <img src="figures/scientific_method_comparison_box.png" width="500"/>
