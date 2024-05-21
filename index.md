@@ -15,8 +15,6 @@ title: AI-Hilbert
 
 <br clear="left"/>
 
-## APOLOGIES FOR THE APPEARANCE! THIS WEBSITE IS STILL WORK IN PROGRESS
-It will be ready soon!
 
 ## AI-Hilbert overview
 
