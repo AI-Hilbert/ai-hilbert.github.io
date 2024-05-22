@@ -40,7 +40,7 @@ The output is a candidate formula representing the phenomenon, excluding unobser
 This approach ensures that the derived formula is consistent with both the observed data and the underlying scientific principles encapsulated in the background theory.
 
 <p align="center">
-<img src="figures/Figure1.png"  width="500"/>
+<img src="figures/Figure1.png"  width="600"/>
 </p>
 
 
