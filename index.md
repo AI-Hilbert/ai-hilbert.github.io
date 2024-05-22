@@ -63,7 +63,7 @@ AI-Hilbert has the capability to derive valid scientific laws even from an incon
 <img src="figures/time.gif"  alt="" width="600"/>
 </p>
 
-### Using the data to compensate incomplete knowledge
+### Incomplete knowledge can be compensated by data
 
 AI-Hilbert demonstrates its efficacy in deriving valid scientific laws even from an incomplete yet consistent background theory and experimental data. 
 By revisiting the derivation of Kepler’s third law of planetary motion and suppressing a subset of axioms, AI-Hilbert verifies its capability to recover the law accurately with varying amounts of noiseless data. 
