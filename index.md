@@ -19,22 +19,15 @@ title: AI-Hilbert
 ## AI-Hilbert overview
 
 
-A fundamental challenge in science is explaining natural phenomena in a manner consistent with both noisy experimental data and background knowledge about the universe's laws. 
-While the Scientific Method has historically driven significant progress, the rate of new discoveries and their economic contributions have stagnated despite increased investment. Figures like Dirac have noted the increasing difficulty of making groundbreaking discoveries. This stagnation suggests that the "low-hanging fruit" of science—simple laws involving low-degree polynomials—has largely been picked, necessitating more sophisticated approaches. 
+A fundamental challenge in science is explaining natural phenomena in a manner consistent with both noisy experimental data and established background knowledge. Despite historical progress driven by the Scientific Method, the rate of new discoveries and their economic contributions have stagnated, suggesting that the simpler scientific laws have been mostly uncovered. 
 Simultaneously, advances in global optimization methods have made it possible to explore the space of scientific laws more efficiently. 
-Leveraging these advances, we propose AI-Hilbert, a new approach that integrates background knowledge and experimental data to derive consistent scientific laws articulated as polynomial equalities and inequalities. 
-Unlike existing methods that may produce inconsistent or spurious results, AI-Hilbert ensures formal provability and consistency with both theory and data.
-
+Leveraging these advances, we propose AI-Hilbert, which integrates background knowledge and experimental data to derive consistent scientific laws expressed as polynomial equalities and inequalities. Unlike existing methods that often produce inconsistent results, AI-Hilbert ensures formal provability and consistency with both theory and data, requiring fewer data points for discovery. 
 
 <p align="center">
 <img src="figures/scientific_method_comparison_box.png" width="500"/>
 </p>
 
-The scientific discovery community has traditionally relied on classical methods or data-driven techniques for making discoveries. Our proposed AI-Hilbert system introduces a novel approach by proposing scientific laws that are consistent with a background theory, formally expressed through polynomial equalities and inequalities. This integration allows AI-Hilbert to make scientific discoveries with fewer data points compared to state-of-the-art methods. In contrast, existing approaches often yield laws that may be inconsistent with either the background theory or the data. To illustrate the difference we presents a stylized version of the scientific method, showing how new laws are proposed from background theory and experimental data using classical techniques, data-driven methods, or AI-Hilbert. While data-driven discoveries might conflict with background theory, and classical methods may overlook relevant data, AI-Hilbert ensures consistency with both. 
 
-<p align="center">
-<img src="figures/scientific_method_flowchart.png" width="500"/>
-</p>
 
 
 ### The Method
