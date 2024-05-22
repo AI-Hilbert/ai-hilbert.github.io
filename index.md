@@ -45,9 +45,8 @@ This approach ensures that the derived formula is consistent with both the obser
 
 
 ### When the theory is enough
-AI-Hilbert has the capability to derive valid scientific laws just from a complete and consistent background theory. An example is the derivation of the radiated gravitational wave power equation. 
+AI-Hilbert has the capability to derive valid scientific laws just from a complete and consistent background theory. An example is the derivation of the radiated gravitational wave power equation. The intersection of the surfaces corresponding to the axioms in the background knowledge is shown in the animation below.
 This equation, describes the average power of gravitational waves emitted by two-point masses in Keplerian orbit. 
-The special case where m1 = m2 = c = G = 1 is shown in the animation below.
 By combining background axioms with appropriate multipliers, AI-Hilbert axiomatically derives this law, overcoming the challenge posed by its complexity. 
 Specifically, the Positivstellensatz method employed by AI-Hilbert reveals that the equation emerges from the intersection of points satisfying Kepler’s Third Law and a linearized equation from general relativity. 
 
