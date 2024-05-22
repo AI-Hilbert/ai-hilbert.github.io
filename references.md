@@ -10,7 +10,7 @@ title: AI-Hilbert
 
 ## Talks & Videos
 
-* Talk at **INFORMS Optimization Society Conference**, Houston, TX in (March 2024)
+* Talk at **INFORMS Optimization Society Conference**, Houston, TX (March 2024)
   * Presentation [slides](figures/ai_hilbert_initial_version.pdf)
 
 ## References
