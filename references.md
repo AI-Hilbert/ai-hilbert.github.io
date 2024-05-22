@@ -2,16 +2,16 @@
 title: AI-Hilbert
 ---
 
-## Blog Posts
+<!--## Blog Posts
 
-* Take a look at our Blog Post
+* Take a look at our Blog Post -->
 
 <!-- ## Media coverage -->
 
 ## Talks & Videos
 
-* Keynote talk at [CONFERENCE NAME]() conference (2023)
-  * Presentation recording: [Video]()
+* Talk at **INFORMS Optimization Society Conference**, Houston, TX in (March 2024)
+  * Presentation [slides](figures/ai_hilbert_initial_version.pdf)
 
 ## References
 
