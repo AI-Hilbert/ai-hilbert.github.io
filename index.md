@@ -20,8 +20,8 @@ title: AI-Hilbert
 
 
 A fundamental challenge in science is explaining natural phenomena in a manner consistent with both noisy experimental data and established background knowledge. Despite historical progress driven by the Scientific Method, the rate of new discoveries and their economic contributions have stagnated, suggesting that the simpler scientific laws have been mostly uncovered. 
-Simultaneously, advances in global optimization methods have made it possible to explore the space of scientific laws more efficiently. 
-Leveraging these advances, we propose AI-Hilbert, which integrates background knowledge and experimental data to derive consistent scientific laws expressed as polynomial equalities and inequalities. Unlike existing methods that often produce inconsistent results, AI-Hilbert ensures formal provability and consistency with both theory and data, requiring fewer data points for discovery. 
+Simultaneously, advances in global optimization have made it possible to explore the space of scientific laws more efficiently. 
+Leveraging these advances, we propose AI-Hilbert, which integrates background knowledge and experimental data to derive scientific laws expressed as polynomial equalities and inequalities. Unlike existing methods that often produce inconsistent results, AI-Hilbert ensures formal provability and consistency with both theory and data, requiring fewer data points for discovery. 
 
 <p align="center">
 <img src="figures/scientific_method_comparison_box.png" width="500"/>
@@ -32,8 +32,8 @@ Leveraging these advances, we propose AI-Hilbert, which integrates background kn
 
 ### The method
 
-Our method, AI-Hilbert, seeks to discover an unknown polynomial formula that describes a physical phenomenon while aligning with both a background theory of polynomial equalities and inequalities (B) and a set of experimental data (D). 
-This method involves a multi-step algorithm, where the inputs include B, D, constraints and bounds (C) dependent on hyperparameters (Λ), and a distance function (dc) defining the distance from a polynomial to the background theory. 
+Our method, AI-Hilbert, discovers an unknown polynomial formula that describes a physical phenomenon while aligning with both a background theory of polynomial equalities and inequalities and a set of experimental data. 
+This method involves a multi-step algorithm, where the inputs include the background theory, the data, constraints and bounds dependent on hyperparameters, and a distance function defining the distance from a polynomial to the background theory. 
 Initially, AI-Hilbert formulates a polynomial optimization problem targeting a specific concept identified by a dependent variable, integrating the background theory, data, and constraints. 
 It then reformulates this problem into a semidefinite optimization problem, solving it using a mixed-integer conic optimization solver. 
 The output is a candidate formula representing the phenomenon, excluding unobserved variables and accompanied by multipliers providing certificates of its derivability from the background theory. 
@@ -45,7 +45,7 @@ This approach ensures that the derived formula is consistent with both the obser
 
 
 ### When the theory is enough
-AI-Hilbert has the capability to derive valid scientific laws just from a complete and consistent background theory. An example is the derivation of the radiated gravitational wave power equation. The intersection of the surfaces corresponding to the axioms in the background knowledge is shown in the animation below.
+AI-Hilbert has the capability to derive valid scientific laws from a complete and consistent background theory. An example is the derivation of the radiated gravitational wave power equation. The intersection of the surfaces corresponding to the axioms in the background knowledge is shown in the animation below.
 This equation, describes the average power of gravitational waves emitted by two-point masses in Keplerian orbit. 
 By combining background axioms with appropriate multipliers, AI-Hilbert axiomatically derives this law, overcoming the challenge posed by its complexity. 
 Specifically, the Positivstellensatz method employed by AI-Hilbert reveals that the equation emerges from the intersection of points satisfying Kepler’s Third Law and a linearized equation from general relativity. 
@@ -77,7 +77,7 @@ Notably, as depicted in the figures below, there exists an all-or-nothing phase 
 </p>
 
 
-### Conclusions and limitations
+### Conclusions and future directions
 
 This work introduces a novel approach to scientific discovery, AI-Hilbert, which integrates concepts from real algebraic geometry and mixed-integer optimization to uncover new scientific laws from potentially incomplete or inconsistent sets of scientific axioms and noisy experimental data. 
 Unlike existing methods that rely solely on background theory or data, our approach combines both, enabling discoveries even in data-sparse or theory-limited scenarios. 
