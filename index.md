@@ -30,7 +30,7 @@ Leveraging these advances, we propose AI-Hilbert, which integrates background kn
 
 
 
-### The Method
+### The method
 
 Our method, AI-Hilbert, seeks to discover an unknown polynomial formula that describes a physical phenomenon while aligning with both a background theory of polynomial equalities and inequalities (B) and a set of experimental data (D). 
 This method involves a multi-step algorithm, where the inputs include B, D, constraints and bounds (C) dependent on hyperparameters (Λ), and a distance function (dc) defining the distance from a polynomial to the background theory. 
@@ -78,7 +78,7 @@ Notably, as depicted in the figures below, there exists an all-or-nothing phase 
 </p>
 
 
-### Conclusions and Limitations
+### Conclusions and limitations
 
 This work introduces a novel approach to scientific discovery, AI-Hilbert, which integrates concepts from real algebraic geometry and mixed-integer optimization to uncover new scientific laws from potentially incomplete or inconsistent sets of scientific axioms and noisy experimental data. 
 Unlike existing methods that rely solely on background theory or data, our approach combines both, enabling discoveries even in data-sparse or theory-limited scenarios. 
