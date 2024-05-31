@@ -71,9 +71,9 @@ Notably, as depicted in the figures below, there exists an all-or-nothing phase 
 
 
 <p align="center">
-<img src="figures/Distance_vs_noise_kepler_noiselesscase_allaxiomsmissing.png"  width="300"/>
+<img src="figures/Distance_vs_noise_kepler_noiselesscase_allaxiomsmissing.png"  width="350"/>
 &emsp;&emsp;
-<img src="figures/Distance_vs_noise_kepler_noiselesscase_axiom1missing.png"  width="300"/>
+<img src="figures/Distance_vs_noise_kepler_noiselesscase_axiom1missing.png"  width="350"/>
 </p>
 
 
