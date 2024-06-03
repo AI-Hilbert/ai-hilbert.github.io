@@ -23,7 +23,7 @@ title: AI-Hilbert
 * Talk "Should we Derive or Let the Data Drive? Symbiotizing Data-driven Learning and Knowledge-based Reasoning to Accelerate Symbolic Discovery" at **ICIAM 2023**
   * [Announcement](https://iciam2023.org/#Horesh)
 * Talk "Should we Derive or Let the Data Drive? A Symbiotic Approach" at **Princeton Simons Seminar on Hidden Symmetries**
-  * [Slides](figures/slides_lior)
+  * [Slides](https://drive.google.com/file/d/1S3pgXR6-3liBPOC_7YUtb_GPzHD0V66i/view)
   * [Announcement](https://hiddensymmetries.princeton.edu/meetings/simons-hour-talks)
 * Incoming talk at the **Fields Institute**
   * Announcement: available soon
