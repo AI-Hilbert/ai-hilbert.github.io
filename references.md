@@ -12,11 +12,26 @@ title: AI-Hilbert
 
 * Talk at **INFORMS Optimization Society Conference**, Houston, TX (March 2024)
   * Presentation [slides](figures/ai_hilbert_initial_version.pdf)
+* Talk "Artificial Intelligence to Assist Mathematical Reasoning: Webinar on the Future of Collaboration" at **National Academies**
+  * [Recording](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.nationalacademies.org_event_4250[…]wFFuLk1&s=oz0kUPERgnlD3PqxGCMhRcdk85DWgziKutLTk7-yU2g&e=)
+* Talk "The Future of Discovery in the Age of Human-AI Collaboration" at **MIDAS (Michigan Institute for data Science)**
+  * [Recording](https://www.dropbox.com/scl/fi/br919o9f5wqicdrjwsudw/MIDAS_Summit_2024_Session3_1.1.mp4?rlkey=cnu42bst1hp8e7bvh9c05dumg&dl=0)
+  * [Announcement](https://midas.umich.edu/ai-se-annual-symposium/)
+* Talk "Should we Derive or Let the Data Drive? Mutually Substantiated Discovery by Symbiotizing Data-driven Learning and Knowledge-based Reasoning" at **Cornell Center for Applied Mathematics**
+  * [Recording](https://www.youtube.com/watch?v=7YwNFbSynJk&t=69s)
+  * [Announcement](https://www.cam.cornell.edu/events/cam-colloquium-lior-horesh-mit-ibm-research-lab-dept-computer-science-columbia-university)
+* Talk "Should we Derive or Let the Data Drive? Symbiotizing Data-driven Learning and Knowledge-based Reasoning to Accelerate Symbolic Discovery" at **ICIAM 2023**
+  * [Announcement](https://iciam2023.org/#Horesh)
+* Talk "Should we Derive or Let the Data Drive? A Symbiotic Approach" at **Princeton Simons Seminar on Hidden Symmetries**
+  * [Recording](https://drive.google.com/file/d/1S3pgXR6-3liBPOC_7YUtb_GPzHD0V66i/view)
+  * [Announcement](https://hiddensymmetries.princeton.edu/meetings/simons-hour-talks)
+* Incoming talk at the **Fields Institute**
+  * Announcement: available soon
 
 ## References
 
 **Papers:**
-* [**AI Hilbert: From Data and Background Knowledge to Automated Scientific Discovery via Polynomial Optimization**](), R. Cory-Wright, B. El Khadir, C. Cornelio, S. Dash, L. Horesh, arXiv 2023 
+* [**AI Hilbert: From Data and Background Knowledge to Automated Scientific Discovery via Polynomial Optimization**](https://arxiv.org/abs/2308.09474), R. Cory-Wright, C. Cornelio, S. Dash, B. El Khadir, L. Horesh, arXiv 2023 
   
 **Patents:**
 * **Logical and Statistical Composite Models**, L. Horesh, B. El Kadir, S. Dash, K. Clarkson, C. Cornelio, 2023
