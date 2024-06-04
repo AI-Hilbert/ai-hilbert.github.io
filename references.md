@@ -13,7 +13,7 @@ title: AI-Hilbert
 * Talk at **INFORMS Optimization Society Conference**, Houston, TX (March 2024)
   * Presentation [slides](figures/ai_hilbert_initial_version.pdf)
 * Talk "Artificial Intelligence to Assist Mathematical Reasoning: Webinar on the Future of Collaboration" at **National Academies**
-  * [Recording]()
+  * [Recording](https://www.nationalacademies.org/event/42508_04-2024_artificial-intelligence-to-assist-mathematical-reasoning-webinar-on-the-future-of-collaboration)
 * Talk "The Future of Discovery in the Age of Human-AI Collaboration" at **MIDAS (Michigan Institute for data Science)**
   * [Recording](https://www.dropbox.com/scl/fi/br919o9f5wqicdrjwsudw/MIDAS_Summit_2024_Session3_1.1.mp4?rlkey=cnu42bst1hp8e7bvh9c05dumg&dl=0)
   * [Announcement](https://midas.umich.edu/ai-se-annual-symposium/)
